@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oton
+- 👋 Hi, I’m @-Nav
 - 👀 I’m interested in C, SQL Server, Python and VB Script
 - 🌱 I’m currently learning SQL and VB Script
 - 💞️ I’m looking to collaborate on ...
